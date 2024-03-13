@@ -15,12 +15,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfigg = {
-  apiKey: "AIzaSyCAJ3zHrDCE-vaLCqc8Lq_jnKEi-lF9tA0",
-  authDomain: "basechat-5fbeb.firebaseapp.com",
-  projectId: "basechat-5fbeb",
-  storageBucket: "basechat-5fbeb.appspot.com",
-  messagingSenderId: "631742680140",
-  appId: "1:631742680140:web:dfd273b28dd47287c4f8e9",
+  apiKey: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  authDomain: "bbbbbbbbbbbbbb.firebaseapp.com",
+  projectId: "cccccccccccc",
+  storageBucket: "dddddddddd.appspot.com",
+  messagingSenderId: "12345789012345",
+  appId: "9:8775432109:web:eeeeeeee11111111", // enter your own credentials after creating firebase project
 };
 
 // Initialize Firebase
